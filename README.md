@@ -1,2 +1,2 @@
-# hunter-s-website
+# my-website
 my spotify rundown
